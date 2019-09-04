@@ -5,8 +5,6 @@ print ("What's your name")
 playername = input()
 print('')
 print ("Hi, "+playername+"!")
-print("Hello")
-
 print ('Today you will be doing a Mad Lib called "A trip to the Dentist"\n')
 print("Let's begin!\n")
 lastname1 = input("Enter a last name: ")
